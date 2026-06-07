@@ -1,0 +1,1241 @@
+Project name: default
+Date: 2026/06/03 02:56:03
+Net type: PN
+<Project blocks>
+  <Subnets>
+  <InvariantsData>
+  <PlaceInvData>
+  <MCT data>
+  <StatesMatrix>
+  <FunctionsData>
+  <FiringRatesData>
+  <SSAmatrix>
+</Project blocks>
+<Net data>
+<ID generator state:136;36;29>
+  <Places: 36>
+    <Place: 0>
+      <Place gID:0>
+      <Place name:FAS>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;880;620;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 1>
+      <Place gID:1>
+      <Place name:FADD>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;1800;620;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 2>
+      <Place gID:2>
+      <Place name:TNFRS10B>
+      <Place comment:>
+      <Place tokens:3>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;880;940;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 3>
+      <Place gID:3>
+      <Place name:CASP8>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;1802;1065;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 4>
+      <Place gID:4>
+      <Place name:CASP3>
+      <Place comment:>
+      <Place tokens:2>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;1683;1478;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 5>
+      <Place gID:5>
+      <Place name:CASP7>
+      <Place comment:>
+      <Place tokens:2>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;1914;1559;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 6>
+      <Place gID:6>
+      <Place name:Apoptosis_signal>
+      <Place comment:>
+      <Place tokens:0>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;1790;1874;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 7>
+      <Place gID:7>
+      <Place name:BID>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2134;742;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 8>
+      <Place gID:8>
+      <Place name:BAX>
+      <Place comment:>
+      <Place tokens:3>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2858;740;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 9>
+      <Place gID:9>
+      <Place name:CYCS>
+      <Place comment:>
+      <Place tokens:2>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2862;1138;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 10>
+      <Place gID:10>
+      <Place name:APAF1>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2855;1483;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 11>
+      <Place gID:11>
+      <Place name:CASP9>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2340;1483;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 12>
+      <Place gID:12>
+      <Place name:CASP10>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;1206;1482;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 13>
+      <Place gID:13>
+      <Place name:XIAP>
+      <Place comment:>
+      <Place tokens:2>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;1301;1713;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 14>
+      <Place gID:14>
+      <Place name:DIABLO>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;1420;1980;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 15>
+      <Place gID:15>
+      <Place name:BAK1>
+      <Place comment:>
+      <Place tokens:2>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2404;1356;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 16>
+      <Place gID:16>
+      <Place name:BAD>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2240;940;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 17>
+      <Place gID:17>
+      <Place name:BCL2L1>
+      <Place comment:>
+      <Place tokens:4>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2522;926;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 18>
+      <Place gID:18>
+      <Place name:BCL2>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2663;900;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 19>
+      <Place gID:19>
+      <Place name:ATM>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;3316;733;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 20>
+      <Place gID:20>
+      <Place name:ATR>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;3620;729;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 21>
+      <Place gID:21>
+      <Place name:TP53>
+      <Place comment:>
+      <Place tokens:2>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;3480;1160;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 22>
+      <Place gID:22>
+      <Place name:CDKN1A>
+      <Place comment:>
+      <Place tokens:6>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;3480;1520;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 23>
+      <Place gID:23>
+      <Place name:cell_cycle_arrest>
+      <Place comment:>
+      <Place tokens:0>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;3480;1850;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 24>
+      <Place gID:24>
+      <Place name:MDM2>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;3719;1317;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 25>
+      <Place gID:25>
+      <Place name:PIK3CA>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;1856;2143;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 26>
+      <Place gID:26>
+      <Place name:AKT1>
+      <Place comment:>
+      <Place tokens:2>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2280;2143;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 27>
+      <Place gID:27>
+      <Place name:cell_survive>
+      <Place comment:>
+      <Place tokens:0>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2280;2462;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 28>
+      <Place gID:28>
+      <Place name:MAPK1>
+      <Place comment:>
+      <Place tokens:4>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;1840;2460;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 29>
+      <Place gID:29>
+      <Place name:MAPK3>
+      <Place comment:>
+      <Place tokens:4>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2785;2458;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 30>
+      <Place gID:30>
+      <Place name:NFPKB1>
+      <Place comment:>
+      <Place tokens:2>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2976;1978;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 31>
+      <Place gID:31>
+      <Place name:RELA>
+      <Place comment:>
+      <Place tokens:3>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2503;1980;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 32>
+      <Place gID:32>
+      <Place name:XIAP(2)>
+      <Place comment:>
+      <Place tokens:2>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2099;1702;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 33>
+      <Place gID:33>
+      <Place name:XIAP(3)>
+      <Place comment:>
+      <Place tokens:2>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2099;1250;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 34>
+      <Place gID:34>
+      <Place name:BCL2L1(2)>
+      <Place comment:>
+      <Place tokens:4>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;2647;1290;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+    <Place: 35>
+      <Place gID:35>
+      <Place name:MDM2(2)>
+      <Place comment:>
+      <Place tokens:1>
+      <Place SSAvalue:0.0>
+      <Place SSAconcStatus:false>
+      <Place colored:false>
+      <Location data>
+        <Place portal status:false>
+        <Place locations:1>
+          <Place location data sheet/x/y/elIndex:0;3140;1650;0>
+          <Place name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOP>
+  <Places data block end>
+  <Transitions: 29>
+    <Transition: 0>
+      <Transition gID:36>
+      <Transition type:PN>
+      <Transition name:FADD_Activate>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;1300;620;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 1>
+      <Transition gID:37>
+      <Transition type:PN>
+      <Transition name:FADD_activate(DR5)>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;1303;793;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 2>
+      <Transition gID:38>
+      <Transition type:PN>
+      <Transition name:CASP8_activation>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;1800;833;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 3>
+      <Transition gID:39>
+      <Transition type:PN>
+      <Transition name:CASP3_activate>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;1680;1260;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 4>
+      <Transition gID:40>
+      <Transition type:PN>
+      <Transition name:CAS7_activate>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;1919;1255;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 5>
+      <Transition gID:41>
+      <Transition type:PN>
+      <Transition name:causes_apoptosis>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;1790;1976;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 6>
+      <Transition gID:42>
+      <Transition type:PN>
+      <Transition name:BAX_activation>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2470;740;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 7>
+      <Transition gID:43>
+      <Transition type:PN>
+      <Transition name:mitochindrial_permeability>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2860;900;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 8>
+      <Transition gID:44>
+      <Transition type:PN>
+      <Transition name:APAF1_activation>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2860;1320;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 9>
+      <Transition gID:45>
+      <Transition type:PN>
+      <Transition name:CASP9_activation>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2580;1483;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 10>
+      <Transition gID:46>
+      <Transition type:PN>
+      <Transition name:CASP_activation>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2100;1480;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 11>
+      <Transition gID:47>
+      <Transition type:PN>
+      <Transition name:CASP3_activation>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;1420;1480;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 12>
+      <Transition gID:48>
+      <Transition type:PN>
+      <Transition name:CYCS_activation>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2520;1140;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 13>
+      <Transition gID:49>
+      <Transition type:PN>
+      <Transition name:TP53_activation>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;3320;920;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 14>
+      <Transition gID:50>
+      <Transition type:PN>
+      <Transition name:TPP53_activation(ATR)>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;3620;920;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 15>
+      <Transition gID:51>
+      <Transition type:PN>
+      <Transition name:CDKN1A_activation>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;3480;1320;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 16>
+      <Transition gID:52>
+      <Transition type:PN>
+      <Transition name:leads_to>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;3480;1720;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 17>
+      <Transition gID:53>
+      <Transition type:PN>
+      <Transition name:BAX_activation(TP53)>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;3152;947;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 18>
+      <Transition gID:54>
+      <Transition type:PN>
+      <Transition name:leads_to(TP53)>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2748;1651;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 19>
+      <Transition gID:55>
+      <Transition type:PN>
+      <Transition name:AKT1_activation>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2036;2139;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 20>
+      <Transition gID:56>
+      <Transition type:PN>
+      <Transition name:causes(AKT1)>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2280;2280;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 21>
+      <Transition gID:57>
+      <Transition type:PN>
+      <Transition name:causes(MAPK1)>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2020;2460;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 22>
+      <Transition gID:58>
+      <Transition type:PN>
+      <Transition name:causes>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2550;2459;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 23>
+      <Transition gID:59>
+      <Transition type:PN>
+      <Transition name:RELA_activation>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2759;1979;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 24>
+      <Transition gID:60>
+      <Transition type:PN>
+      <Transition name:causes(RELA)>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2425;2158;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 25>
+      <Transition gID:61>
+      <Transition type:PN>
+      <Transition name:leads_to(CASP3)>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;1683;1709;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 26>
+      <Transition gID:62>
+      <Transition type:PN>
+      <Transition name:leads_to(CASP7)>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;1912;1697;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 27>
+      <Transition gID:63>
+      <Transition type:PN>
+      <Transition name:Cell_repair>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2882;2155;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+    <Transition: 28>
+      <Transition gID:64>
+      <Transition type:PN>
+      <Transition name:No_repair>
+      <Transition comment:>
+      <Transition eft:0.0>
+      <Transition lft:0.0>
+      <Transition duration:0.0>
+      <Transition TPN status:false>
+      <Transition DPN status:false>
+      <Transition function flag:false>
+      <Transition colored:false>
+      <Location data>
+        <Transition portal status:false>
+        <Transition locations:1>
+          <Transition location data sheet/x/y/elIndex:0;2980;1860;0>
+          <Transition name offset data sheet/x/y/elIndex:0;0;0;0>
+      <Location data block end>
+    <EOT>
+  <Transitions data block end>
+  <MetaNodes: 0>
+  <MetaNodes data block end>
+  <Arcs data block>
+    <Arc: NORMAL; P0(0) -> T0(0); 1>;99999-11111
+    <Arc: NORMAL; P1(0) -> T2(0); 1>;99999-11111
+    <Arc: NORMAL; P2(0) -> T1(0); 1>;99999-11111
+    <Arc: NORMAL; P3(0) -> T3(0); 1>;99999-11111
+    <Arc: NORMAL; P3(0) -> T4(0); 1>;99999-11111
+    <Arc: NORMAL; P4(0) -> T25(0); 1>;99999-11111
+    <Arc: NORMAL; P5(0) -> T26(0); 1>;99999-11111
+    <Arc: NORMAL; P7(0) -> T6(0); 1>;99999-11111
+    <Arc: NORMAL; P8(0) -> T7(0); 1>;99999-11111
+    <Arc: NORMAL; P9(0) -> T8(0); 1>;99999-11111
+    <Arc: NORMAL; P10(0) -> T9(0); 1>;99999-11111
+    <Arc: NORMAL; P11(0) -> T10(0); 1>;99999-11111
+    <Arc: NORMAL; P12(0) -> T11(0); 1>;99999-11111
+    <Arc: INHIBITOR; P13(0) -> T25(0); 1>;1480-1710
+    <Arc: NORMAL; P14(0) -> T5(0); 1>;99999-11111
+    <Arc: NORMAL; P15(0) -> T12(0); 1>;99999-11111
+    <Arc: NORMAL; P15(0) -> T7(0); 1>;99999-11111
+    <Arc: NORMAL; P16(0) -> T12(0); 1>;99999-11111
+    <Arc: INHIBITOR; P17(0) -> T12(0); 1>;2520-1042
+    <Arc: INHIBITOR; P18(0) -> T7(0); 1>;2773-900
+    <Arc: NORMAL; P19(0) -> T13(0); 1>;99999-11111
+    <Arc: NORMAL; P20(0) -> T14(0); 1>;99999-11111
+    <Arc: NORMAL; P21(0) -> T15(0); 1>;99999-11111
+    <Arc: NORMAL; P21(0) -> T17(0); 1>;99999-11111
+    <Arc: NORMAL; P21(0) -> T18(0); 1>;99999-11111
+    <Arc: NORMAL; P22(0) -> T16(0); 1>;99999-11111
+    <Arc: NORMAL; P23(0) -> T28(0); 1>;99999-11111
+    <Arc: NORMAL; P23(0) -> T27(0); 1>;99999-11111
+    <Arc: INHIBITOR; P24(0) -> T15(0); 1>;3623-1320
+    <Arc: NORMAL; P25(0) -> T19(0); 1>;99999-11111
+    <Arc: NORMAL; P26(0) -> T20(0); 1>;99999-11111
+    <Arc: INHIBITOR; P26(0) -> T5(0); 1>;1987-2043
+    <Arc: NORMAL; P28(0) -> T21(0); 1>;99999-11111
+    <Arc: NORMAL; P29(0) -> T22(0); 1>;99999-11111
+    <Arc: NORMAL; P30(0) -> T23(0); 1>;99999-11111
+    <Arc: NORMAL; P31(0) -> T24(0); 1>;99999-11111
+    <Arc: INHIBITOR; P31(0) -> T5(0); 1>;2273-1983
+    <Arc: INHIBITOR; P32(0) -> T26(0); 1>;2027-1700
+    <Arc: INHIBITOR; P33(0) -> T10(0); 1>;2100-1377
+    <Arc: INHIBITOR; P34(0) -> T7(0); 1>;2755-1105
+    <Arc: INHIBITOR; P35(0) -> T18(0); 1>;2969-1650
+    <Arc: NORMAL; T0(0) -> P1(0); 1>;99999-11111
+    <Arc: NORMAL; T1(0) -> P1(0); 1>;99999-11111
+    <Arc: NORMAL; T2(0) -> P3(0); 1>;99999-11111
+    <Arc: NORMAL; T3(0) -> P4(0); 1>;99999-11111
+    <Arc: NORMAL; T4(0) -> P5(0); 1>;99999-11111
+    <Arc: NORMAL; T5(0) -> P6(0); 1>;99999-11111
+    <Arc: NORMAL; T6(0) -> P8(0); 1>;99999-11111
+    <Arc: NORMAL; T7(0) -> P9(0); 1>;99999-11111
+    <Arc: NORMAL; T8(0) -> P10(0); 1>;99999-11111
+    <Arc: NORMAL; T9(0) -> P11(0); 1>;99999-11111
+    <Arc: NORMAL; T10(0) -> P4(0); 1>;99999-11111
+    <Arc: NORMAL; T10(0) -> P5(0); 1>;99999-11111
+    <Arc: NORMAL; T11(0) -> P4(0); 1>;99999-11111
+    <Arc: NORMAL; T12(0) -> P9(0); 1>;99999-11111
+    <Arc: NORMAL; T13(0) -> P21(0); 1>;99999-11111
+    <Arc: NORMAL; T14(0) -> P21(0); 1>;99999-11111
+    <Arc: NORMAL; T15(0) -> P22(0); 1>;99999-11111
+    <Arc: NORMAL; T16(0) -> P23(0); 1>;99999-11111
+    <Arc: NORMAL; T17(0) -> P8(0); 1>;99999-11111
+    <Arc: NORMAL; T18(0) -> P6(0); 1>;99999-11111
+    <Arc: NORMAL; T19(0) -> P26(0); 1>;99999-11111
+    <Arc: NORMAL; T20(0) -> P27(0); 1>;99999-11111
+    <Arc: NORMAL; T21(0) -> P27(0); 1>;99999-11111
+    <Arc: NORMAL; T22(0) -> P27(0); 1>;99999-11111
+    <Arc: NORMAL; T23(0) -> P31(0); 1>;99999-11111
+    <Arc: NORMAL; T24(0) -> P27(0); 1>;99999-11111
+    <Arc: NORMAL; T25(0) -> P6(0); 1>;99999-11111
+    <Arc: NORMAL; T26(0) -> P6(0); 1>;99999-11111
+    <Arc: NORMAL; T27(0) -> P27(0); 1>;99999-11111
+    <Arc: NORMAL; T28(0) -> P6(0); 1>;99999-11111
+  <Arcs data block end>
+  <Functions data block>
+  <Functions data block end>
+<Net data end>
+<Invariants data>
+  <Invariants: 0>
+  <EOI>
+<Invariants data end>
+<PlaceInv data>
+  <PInvariants: 9>
+    0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+    1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+    2;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+    3;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+    4;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0
+    5;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0
+    6;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+    7;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+    8;1;1;1;1;1;1;1;1;1;2;2;2;1;0;1;1;1;0;0;1;1;1;1;1;0;1;1;1;1;1;1;1;0;0;0;0
+  <EOPI>
+  <PInvariants names>
+    Default&nbsp;description&nbsp;of&nbsp;p-invariant&nbsp;#1
+    Default&nbsp;description&nbsp;of&nbsp;p-invariant&nbsp;#2
+    Default&nbsp;description&nbsp;of&nbsp;p-invariant&nbsp;#3
+    Default&nbsp;description&nbsp;of&nbsp;p-invariant&nbsp;#4
+    Default&nbsp;description&nbsp;of&nbsp;p-invariant&nbsp;#5
+    Default&nbsp;description&nbsp;of&nbsp;p-invariant&nbsp;#6
+    Default&nbsp;description&nbsp;of&nbsp;p-invariant&nbsp;#7
+    Default&nbsp;description&nbsp;of&nbsp;p-invariant&nbsp;#8
+    Default&nbsp;description&nbsp;of&nbsp;p-invariant&nbsp;#9
+  <EOPIN>
+<PlaceInv data end>
+<MCT data>
+  <MCT: 0>
+  <EOM>
+<MCT data end>
+<States data>
+  <States: 1>
+    1.0;1.0;3.0;1.0;2.0;2.0;0.0;1.0;3.0;2.0;1.0;1.0;1.0;2.0;1.0;2.0;1.0;4.0;1.0;1.0;1.0;2.0;6.0;0.0;1.0;1.0;2.0;0.0;4.0;4.0;2.0;3.0;2.0;2.0;4.0;1.0
+    NORMAL;
+    Default&nbsp;first&nbsp;(0)&nbsp;working&nbsp;state&nbsp;for&nbsp;current&nbsp;net.
+  <EOSt>
+<States data end>
+<Firing rates data>
+  <FRvectors: 1>
+    version101:1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST;1.0;0;0;;0;;ST
+    SPN;
+    Default&nbsp;description&nbsp;for&nbsp;SPN&nbsp;transitions&nbsp;data&nbsp;vector.
+  <EOFRv>
+<Firing rates data end>
+<SSA vectors data>
+  <SSA vectors: 1>
+    0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0;0.0
+    MOLECULES;0.0
+    Default&nbsp;SSA&nbsp;data&nbsp;vector&nbsp;description
+  <EOSSA>
+<SSA vectors data end>
